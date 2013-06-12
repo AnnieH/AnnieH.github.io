@@ -5,7 +5,7 @@ title:  "AngelHack Postmortem"
 
 About 2 weeks ago I participated in the Austin stop of the [AngelHack](http://www.angelhack.com) competition and I've been thinking a lot about my experience since it was my first public hackathon. I thought I would jot down some thoughts and couldn't think of a better way to share them than to start a blog.
 
-I was a bit nervous about going into the weekend without an idea or team, but I was quickly able to find a group who had developed an idea on the spot and needed help from a Rails developer. The end product was **PepTalk**, a service that connected to your Google Calendar and would wake you up in the morning with the day's schedule. 
+I was a bit nervous about going into the weekend without an idea or team, but I was quickly able to find a group who had developed an idea on the spot and needed help from a Rails developer. The end product was **PepTalk**, a service that connected to your Google Calendar and would make a wake up call to you in the morning with the day's schedule. 
 
 After finding a team, I started worrying about whether I had the technical chops to help develop a product from the ground up in such a short amount of time. After we started hacking, I realized my worry was unfounded. I was even able to contribute some to the front end and gained a better understanding of good Git workflow. As the final deadline was approaching, the other developer and I began to pair program. I have to admit, as someone who was previously skeptical of the benefits of pair programming, I did notice that it did help us code faster. 
 
