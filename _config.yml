@@ -1,2 +1,10 @@
-name: Annie Hsieh
-pygments: true
+title:			Annie Hsieh
+tagline:		"My Blog"
+url:        http://www.anniehsieh.com
+author:
+  name:       "Annie Hsieh"
+  email:      "Some musings about web development, Ruby on Rails, my career, and tech"
+markdown: 	rdiscount
+permalink:	pretty
+pygments: 	true
+paginate: 	5
