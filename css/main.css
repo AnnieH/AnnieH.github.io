@@ -67,7 +67,7 @@ h4, h5, h6 {
 }
 
 p {
-  margin: 0 0 15px;
+  margin: 0 0 10px;
 }
 .lead {
   font-size: 20px;
@@ -85,7 +85,7 @@ li {
   margin: 0 0 10px;
 }
 li p:first-child + p {
-  font-size: 80%;
+  font-size: 85%;
   margin-bottom: 10px;
 }
 
@@ -219,6 +219,9 @@ a.site-name:hover {
 .colophon {
   margin-top: 20px;
   color: #7a7a7a;
+}
+.colophon p {
+  font-size: 65%;
 }
 .colophon-links {
   padding-left: 0;
