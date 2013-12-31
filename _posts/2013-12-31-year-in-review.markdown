@@ -3,7 +3,7 @@ layout: post
 title: "2013: The Year I Embraced Risk and Learned From Failure"
 ---
 
-2013 was quite a year for me. For one thing, it was my first full year that I lived away from my parents and the transformation that happens when you finally rid yourself of toxic influences is amazing. Looking back, these were the major parts of the year that stood out to me.
+2013 was quite a year for me. At the beginning of the year, my life was finally starting to settle down after all the excitement of getting my own place and entering the world of startups. Little did I know that 2013 would bring even more changes to my life with the opportunity to take quite a few risks, some that paid off and some that didn't. Looking back, these were the major parts of the year that stood out to me.
 
 - I realized that it was time to move on from my startup job. 
 - I managed to find a remote job through Twitter, which was pretty awesome, but we ended up parting ways quickly.    
