@@ -74,11 +74,19 @@ p {
   font-weight: 300;
 }
 
-ul, ol {
+ul {
+ list-style-type: square;
+ margin-bottom: : 15px;
+}
+ol {
   margin-bottom: 15px;
 }
 li {
-  color: #888580;
+  margin: 0 0 10px;
+}
+li p:first-child + p {
+  font-size: 80%;
+  margin-bottom: 10px;
 }
 
 hr {
@@ -229,8 +237,12 @@ a.site-name:hover {
 
 /* Single post */
 .post {
+  font-size: 16px;
   margin-top: 40px;
   margin-bottom: 40px;
+}
+.post h1 {
+  font-size: 32px;
 }
 .post-date {
   display: block;
