@@ -6,5 +6,5 @@ author:
   email:      "Some musings about web development, Ruby on Rails, my career, and tech"
 markdown: 	rdiscount
 permalink:	pretty
-pygments: 	true
+highlighter:    pygments
 paginate: 	5

@@ -253,6 +253,25 @@ a.site-name:hover {
   color: #9a9a9a;
 }
 
+.post .centered {
+  text-align: center;
+  font-style: italic;
+  padding: 16px 0;
+}
+
+.post img {
+    display: block;
+    margin: 0 auto;
+}
+
+span.caption {
+  font-size: 16px;
+}
+
+strong {
+  font-size: 18px;
+}
+
 /* Related posts */
 .related {
   padding-top: 40px;
