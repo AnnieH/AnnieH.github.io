@@ -4,9 +4,9 @@ title: "Why I Enjoy Being an Early Startup Employee"
 excerpt: I told myself I wasn’t going to get involved in another startup while looking for work last year. My parents and family had been nagging me to just find a stable job at a large company and I was headed in that direction. That all changed when I met with one of the co-founders of Written about doing some development work and possibly becoming the startup’s first employee. People warned me against joining a startup this early and shared their bad experiences with me but I could sense that the startup had a real potential to be a rocket ship so I had to get on.
 ---
 
-### *“If you’re offered a seat on a rocket ship, you don’t ask what seat. You just get on.”* <span class="caption">- Former Google CEO Eric Schmidt (from *Lean In* by Sheryl Sandberg)</span>
+### *“If you’re offered a seat on a rocket ship, you don’t ask what seat. You just get on.”* <p class="caption">- Former Google CEO Eric Schmidt (from *Lean In* by Sheryl Sandberg)</p>
 
-{% include img.html url="/assets/written_laser_tag.jpg" alt="team pic" description="The Written team getting ready to shoot lasers at each other." %}
+{% include img.html url="/assets/written_laser_tag.jpg" alt="team pic" description="The Written team getting ready to shoot lasers at each other. (Sept 2013)" %}
 
 I told myself I wasn’t going to get involved in another startup while looking for work last year. My parents and family had been nagging me to just find a stable job at a large company and I was headed in that direction. That all changed when I met with one of the co-founders of Written about doing some development work and possibly becoming the startup’s first employee. People warned me against joining a startup this early and shared their bad experiences with me but I could sense that the startup had a real potential to be a rocket ship so I had to get on. 
 
