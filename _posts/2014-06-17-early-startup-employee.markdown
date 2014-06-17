@@ -13,7 +13,7 @@ I told myself I wasn’t going to get involved in another startup while looking 
 After working at Written for a year, I still am as excited to go to work every day as when I first started. This is not to say that this year hasn’t been filled with a lot of hard work and struggles but I really have enjoyed the ride so far. Here are the reasons why:
 
 <br />
-**Main Motivation is to Learn**
+**Motivation to Learn**
 
 The media often talks about high salaries and all kinds of perks tech people can get from working at a startup and everyone’s heard the stories of employees striking it rich after a big exit. The reality at an early-stage startup is that if those are the things you expect when you join and your main motivators, you’ll be disappointed. Your salary will likely be lower than market rate until the startup finds significant traction and/or VC funding. There’s only really a small chance the stock options you receive will ever amount to anything.
 
@@ -22,7 +22,7 @@ I really like the way Mark Suster (an entrepreneur turned VC) frames the motivat
 <br />
 **Passion**
 
-It’s easier to get through the grind of working at an early-stage startup if you are really passionate about what you are building. I didn’t join Written with a passion for blogging or content marketing but what I did come in with is a passion for web development and writing good code, which fit role in the startup. Being continuously surrounded by the co-founders who are passionate about the main product focus has pushed me to strive to do my best work though and has helped grow my interest in it. Now I am a believer that what I’m helping to build can be a game-changer in the content marketing space.
+It’s easier to get through the grind of working at an early-stage startup if you are really passionate about what you are building. I didn’t join Written with a passion for blogging or content marketing but what I did come in with is a passion for web development and writing good code, which made sense for my role in the startup. Being continuously surrounded by the founders who are passionate about the main product focus has pushed me to strive to do my best work though and has helped grow my interest in it. Now I am a believer that what I’m helping to build can be a game-changer in the content marketing space.
 
 <br />
 **Embracing the Roller Coaster Ride**
@@ -42,4 +42,4 @@ The people that make up the startup are an especially important part of the expe
 Even before I joined Written, just in talks with the founders, I could tell that my values and personality aligned with theirs and that I would work well with them. They are all experienced entreprenuers and yet don't take themselves too seriously, which makes working with them fun. Also, knowing that starting a company is a big goal of mine, they willingly share some of their knowledge with me even when it doesn't directly relate to our startup and make sure I get as much from working there as I put in. 
 
 <br />
-There's a lot of talk in mainstream media about being a startup founder but I hope this gives a glimpse of what it's like as a startup employee and why I've chosen to be one. Working at a startup, especially an early-stage one, is definitely not for everyone but I can’t imagine myself doing anything else right now. If you want to chat more about what it's like to work at startups, especially if you're a woman, feel free to reach out, I'm [@ankey](http://twitter.com/ankey) on Twitter. 
+I hope this gives a glimpse of what it's like as an early startup employee and why I've chosen to be one. Working at a startup is definitely not for everyone but I can’t imagine myself doing anything else right now. If you want to chat more about what it's like to work at startups, especially if you're a woman, feel free to reach out, I'm [@ankey](http://twitter.com/ankey) on Twitter. 
